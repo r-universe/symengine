@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "symengine"]
+	path = symengine
+	url = https://github.com/symengine/symengine.r
+	shallow = true
+	registered = true
